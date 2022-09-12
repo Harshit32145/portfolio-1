@@ -1,0 +1,51 @@
+h1 {
+    color: rgb(35, 21, 168);
+}
+
+
+.header{
+    background-color:rgb(17, 224, 62) ;
+    display:flex;
+    justify-content:space-around;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
